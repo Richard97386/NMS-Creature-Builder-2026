@@ -1,0 +1,1034 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "PRAWN",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "name": "NECK_C0_0_JNT",
+      "mesh": 0
+    },
+    {
+      "name": "NECK_C0_1_JNT",
+      "mesh": 1
+    },
+    {
+      "name": "MOUTH_L0_0_JNT",
+      "mesh": 2
+    },
+    {
+      "name": "MOUTH_L0_1_JNT",
+      "mesh": 3
+    },
+    {
+      "name": "MOUTH_L0_2_JNT",
+      "mesh": 4
+    },
+    {
+      "name": "MOUTH_L0_END_JNT",
+      "mesh": 5
+    },
+    {
+      "name": "MOUTH_R0_0_JNT",
+      "mesh": 6
+    },
+    {
+      "name": "MOUTH_R0_1_JNT",
+      "mesh": 7
+    },
+    {
+      "name": "MOUTH_R0_2_JNT",
+      "mesh": 8
+    },
+    {
+      "name": "MOUTH_R0_END_JNT",
+      "mesh": 9
+    },
+    {
+      "name": "LEG_L0_0_JNT",
+      "mesh": 10
+    },
+    {
+      "name": "LEG_L0_1_JNT",
+      "mesh": 11
+    },
+    {
+      "name": "LEG_L0_2_JNT",
+      "mesh": 12
+    },
+    {
+      "name": "LEG_L0_END_JNT",
+      "mesh": 13
+    },
+    {
+      "name": "LEG_R0_0_JNT",
+      "mesh": 14
+    },
+    {
+      "name": "LEG_R0_1_JNT",
+      "mesh": 15
+    },
+    {
+      "name": "LEG_R0_2_JNT",
+      "mesh": 16
+    },
+    {
+      "name": "LEG_R0_END_JNT",
+      "mesh": 17
+    },
+    {
+      "name": "SPINE_C0_0_JNT",
+      "mesh": 18
+    },
+    {
+      "name": "SPINE_C0_1_JNT",
+      "mesh": 19
+    },
+    {
+      "name": "SPINE_C0_2_JNT",
+      "mesh": 20
+    },
+    {
+      "name": "TAIL_C0_0_JNT",
+      "mesh": 21
+    },
+    {
+      "name": "TAIL_C0_1_JNT",
+      "mesh": 22
+    },
+    {
+      "name": "LEG_L1_0_JNT",
+      "mesh": 23
+    },
+    {
+      "name": "LEG_L1_1_JNT",
+      "mesh": 24
+    },
+    {
+      "name": "LEG_L1_2_JNT",
+      "mesh": 25
+    },
+    {
+      "name": "LEG_L1_END_JNT",
+      "mesh": 26
+    },
+    {
+      "name": "LEG_R1_0_JNT",
+      "mesh": 27
+    },
+    {
+      "name": "LEG_R1_1_JNT",
+      "mesh": 28
+    },
+    {
+      "name": "LEG_R1_2_JNT",
+      "mesh": 29
+    },
+    {
+      "name": "LEG_R1_END_JNT",
+      "mesh": 30
+    },
+    {
+      "name": "LEG_L2_0_JNT",
+      "mesh": 31
+    },
+    {
+      "name": "LEG_L2_1_JNT",
+      "mesh": 32
+    },
+    {
+      "name": "LEG_L2_2_JNT",
+      "mesh": 33
+    },
+    {
+      "name": "LEG_L2_END_JNT",
+      "mesh": 34
+    },
+    {
+      "name": "LEG_R2_0_JNT",
+      "mesh": 35
+    },
+    {
+      "name": "LEG_R2_1_JNT",
+      "mesh": 36
+    },
+    {
+      "name": "LEG_R2_2_JNT",
+      "mesh": 37
+    },
+    {
+      "name": "LEG_R2_END_JNT",
+      "mesh": 38
+    },
+    {
+      "name": "LEG_L3_0_JNT",
+      "mesh": 39
+    },
+    {
+      "name": "LEG_L3_1_JNT",
+      "mesh": 40
+    },
+    {
+      "name": "LEG_L3_2_JNT",
+      "mesh": 41
+    },
+    {
+      "name": "LEG_L3_END_JNT",
+      "mesh": 42
+    },
+    {
+      "name": "LEG_R3_0_JNT",
+      "mesh": 43
+    },
+    {
+      "name": "LEG_R3_1_JNT",
+      "mesh": 44
+    },
+    {
+      "name": "LEG_R3_2_JNT",
+      "mesh": 45
+    },
+    {
+      "name": "LEG_R3_END_JNT",
+      "mesh": 46
+    },
+    {
+      "name": "_LEGS_01",
+      "mesh": 47
+    },
+    {
+      "name": "_LEGS_02",
+      "mesh": 48
+    },
+    {
+      "name": "_BACK_01",
+      "mesh": 49
+    },
+    {
+      "name": "_BACK_02",
+      "mesh": 50
+    },
+    {
+      "name": "_BACK_03",
+      "mesh": 51
+    },
+    {
+      "name": "_FACE_01",
+      "mesh": 52
+    },
+    {
+      "name": "_FACE_02",
+      "mesh": 53
+    },
+    {
+      "name": "_FACE_03",
+      "mesh": 54
+    },
+    {
+      "name": "_FACE_04",
+      "mesh": 55
+    },
+    {
+      "name": "_END_01",
+      "mesh": 56
+    },
+    {
+      "name": "_END_03",
+      "mesh": 57
+    },
+    {
+      "name": "PRAWN_BODYBASE",
+      "mesh": 58
+    },
+    {
+      "name": "PRAWN_HEADBASE",
+      "mesh": 59
+    },
+    {
+      "name": "PRAWN_TAILBASE",
+      "mesh": 60
+    },
+    {
+      "name": "_BACK_04",
+      "mesh": 61
+    },
+    {
+      "name": "_END_02",
+      "mesh": 62
+    }
+  ],
+  "meshes": [
+    {
+      "name": "NECK_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "NECK_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_L0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_L0_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_R0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_R0_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPINE_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPINE_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPINE_C0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L3_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L3_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L3_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L3_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R3_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R3_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R3_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R3_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGS_01",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGS_02",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_01",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_02",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_03",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FACE_01",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FACE_02",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FACE_03",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FACE_04",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "END_01",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "END_03",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PRAWN_BODYBASE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PRAWN_HEADBASE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PRAWN_TAILBASE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_04",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "END_02",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

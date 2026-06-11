@@ -1,0 +1,106 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "BEETLE",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "_SHELL_REG",
+      "mesh": 0
+    },
+    {
+      "name": "_SHELL_SPIKY",
+      "mesh": 1
+    },
+    {
+      "name": "_SHELL_BIG",
+      "mesh": 2
+    },
+    {
+      "name": "_HEAD_ROUND",
+      "mesh": 3
+    },
+    {
+      "name": "_HEAD_RHINO",
+      "mesh": 4
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SHELL_REG",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SHELL_SPIKY",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SHELL_BIG",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_ROUND",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_RHINO",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

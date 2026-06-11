@@ -1,0 +1,890 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "ACCESSORIES",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "name": "EAR_1",
+      "mesh": 0
+    },
+    {
+      "name": "EAR_2",
+      "mesh": 1
+    },
+    {
+      "name": "EAR_3",
+      "mesh": 2
+    },
+    {
+      "name": "EAR_4",
+      "mesh": 3
+    },
+    {
+      "name": "EAR_5",
+      "mesh": 4
+    },
+    {
+      "name": "BIRDACC_6",
+      "mesh": 5
+    },
+    {
+      "name": "SINGLEPART_1",
+      "mesh": 6
+    },
+    {
+      "name": "SINGLEPART_2",
+      "mesh": 7
+    },
+    {
+      "name": "SINGLEPART_3",
+      "mesh": 8
+    },
+    {
+      "name": "SINGLEPART_4",
+      "mesh": 9
+    },
+    {
+      "name": "SINGLEPART_5",
+      "mesh": 10
+    },
+    {
+      "name": "TOUGHSKIN_1",
+      "mesh": 11
+    },
+    {
+      "name": "TOUGHSKIN_2",
+      "mesh": 12
+    },
+    {
+      "name": "TOUGHSKIN_3",
+      "mesh": 13
+    },
+    {
+      "name": "BUBBLES_1",
+      "mesh": 14
+    },
+    {
+      "name": "BUBBLES_2",
+      "mesh": 15
+    },
+    {
+      "name": "BUBBLES_3",
+      "mesh": 16
+    },
+    {
+      "name": "BACKACC_1",
+      "mesh": 17
+    },
+    {
+      "name": "BACKACC_2",
+      "mesh": 18
+    },
+    {
+      "name": "BACKACC_3",
+      "mesh": 19
+    },
+    {
+      "name": "BACKACC_4",
+      "mesh": 20
+    },
+    {
+      "name": "BACKACC_6",
+      "mesh": 21
+    },
+    {
+      "name": "HEADACC_1",
+      "mesh": 22
+    },
+    {
+      "name": "HEADACC_2",
+      "mesh": 23
+    },
+    {
+      "name": "HEADACC_3",
+      "mesh": 24
+    },
+    {
+      "name": "HEADACC_4",
+      "mesh": 25
+    },
+    {
+      "name": "HEADACC_5",
+      "mesh": 26
+    },
+    {
+      "name": "HEADACC_6",
+      "mesh": 27
+    },
+    {
+      "name": "HEADACC_7",
+      "mesh": 28
+    },
+    {
+      "name": "HEADACC_8",
+      "mesh": 29
+    },
+    {
+      "name": "HEADACC_9",
+      "mesh": 30
+    },
+    {
+      "name": "HEADACC_10",
+      "mesh": 31
+    },
+    {
+      "name": "HORN_1",
+      "mesh": 32
+    },
+    {
+      "name": "HORN_2",
+      "mesh": 33
+    },
+    {
+      "name": "HORN_4",
+      "mesh": 34
+    },
+    {
+      "name": "HORN_5",
+      "mesh": 35
+    },
+    {
+      "name": "HORN_6",
+      "mesh": 36
+    },
+    {
+      "name": "HORN_7",
+      "mesh": 37
+    },
+    {
+      "name": "HORN_8",
+      "mesh": 38
+    },
+    {
+      "name": "HORN_9",
+      "mesh": 39
+    },
+    {
+      "name": "HORN_10",
+      "mesh": 40
+    },
+    {
+      "name": "HORN_11",
+      "mesh": 41
+    },
+    {
+      "name": "HORN_12",
+      "mesh": 42
+    },
+    {
+      "name": "HORN_13",
+      "mesh": 43
+    },
+    {
+      "name": "HORN_14",
+      "mesh": 44
+    },
+    {
+      "name": "HORN_15",
+      "mesh": 45
+    },
+    {
+      "name": "HORN_16",
+      "mesh": 46
+    },
+    {
+      "name": "MULTIACC_1",
+      "mesh": 47
+    },
+    {
+      "name": "MULTIACC_2",
+      "mesh": 48
+    },
+    {
+      "name": "MULTIACC_3",
+      "mesh": 49
+    },
+    {
+      "name": "MULTIACC_4",
+      "mesh": 50
+    },
+    {
+      "name": "MULTIACC_5",
+      "mesh": 51
+    },
+    {
+      "name": "MULTIACC_6",
+      "mesh": 52
+    },
+    {
+      "name": "MULTIACC_7",
+      "mesh": 53
+    }
+  ],
+  "meshes": [
+    {
+      "name": "EAR_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EAR_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EAR_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EAR_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EAR_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BIRDACC_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SINGLEPART_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SINGLEPART_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SINGLEPART_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SINGLEPART_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SINGLEPART_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TOUGHSKIN_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TOUGHSKIN_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TOUGHSKIN_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BUBBLES_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BUBBLES_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BUBBLES_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKACC_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_7",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_8",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_9",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADACC_10",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_7",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_8",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_9",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_10",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_11",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_12",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_13",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_14",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_15",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HORN_16",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MULTIACC_7",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

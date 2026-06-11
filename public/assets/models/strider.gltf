@@ -1,0 +1,58 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "STRIDER",
+      "children": [
+        1,
+        2
+      ]
+    },
+    {
+      "name": "HEART_JNT",
+      "mesh": 0
+    },
+    {
+      "name": "HEART_JNT1",
+      "mesh": 1
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HEART_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEART_JNT1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

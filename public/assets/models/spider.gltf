@@ -1,0 +1,138 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "SPIDER",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "name": "_FIEND_BODY",
+      "mesh": 0
+    },
+    {
+      "name": "NEWTAIL4JNT_2",
+      "mesh": 1
+    },
+    {
+      "name": "LIGHT_POINTLIGHT1",
+      "mesh": 2
+    },
+    {
+      "name": "COL_R",
+      "mesh": 3
+    },
+    {
+      "name": "COL_G",
+      "mesh": 4
+    },
+    {
+      "name": "COL_B",
+      "mesh": 5
+    },
+    {
+      "name": "COOKIE_IDX",
+      "mesh": 6
+    }
+  ],
+  "meshes": [
+    {
+      "name": "_FIEND_BODY",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "NEWTAIL4JNT_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LIGHT_POINTLIGHT1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COOKIE_IDX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

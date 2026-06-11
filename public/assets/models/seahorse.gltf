@@ -1,0 +1,1434 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "SEAHORSE",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "name": "SHOULDERUPPER_L",
+      "mesh": 0
+    },
+    {
+      "name": "FINUPPER01_L",
+      "mesh": 1
+    },
+    {
+      "name": "FINUPPER02_L",
+      "mesh": 2
+    },
+    {
+      "name": "FINLARGE01_L",
+      "mesh": 3
+    },
+    {
+      "name": "FINLARGE02_L",
+      "mesh": 4
+    },
+    {
+      "name": "FINLARGE03_L",
+      "mesh": 5
+    },
+    {
+      "name": "SHOULDERUPPER_R",
+      "mesh": 6
+    },
+    {
+      "name": "FINLARGE01_R",
+      "mesh": 7
+    },
+    {
+      "name": "FINLARGE02_R",
+      "mesh": 8
+    },
+    {
+      "name": "FINLARGE03_R",
+      "mesh": 9
+    },
+    {
+      "name": "FINUPPER01_R",
+      "mesh": 10
+    },
+    {
+      "name": "FINUPPER02_R",
+      "mesh": 11
+    },
+    {
+      "name": "SHOULDERLOWER_R",
+      "mesh": 12
+    },
+    {
+      "name": "FINLOWER01_R",
+      "mesh": 13
+    },
+    {
+      "name": "FINLOWER02_R",
+      "mesh": 14
+    },
+    {
+      "name": "FINLOWER03_R",
+      "mesh": 15
+    },
+    {
+      "name": "SHOULDERLOWER_L",
+      "mesh": 16
+    },
+    {
+      "name": "FINLOWER01_L",
+      "mesh": 17
+    },
+    {
+      "name": "FINLOWER02_L",
+      "mesh": 18
+    },
+    {
+      "name": "FINLOWER03_L",
+      "mesh": 19
+    },
+    {
+      "name": "TAIL_CONTROL",
+      "mesh": 20
+    },
+    {
+      "name": "HEAD_CONTROL",
+      "mesh": 21
+    },
+    {
+      "name": "_SHHEAD_1",
+      "mesh": 22
+    },
+    {
+      "name": "_SH1EARS_2",
+      "mesh": 23
+    },
+    {
+      "name": "_SH1HAIR_4",
+      "mesh": 24
+    },
+    {
+      "name": "_SH1HAIR_2",
+      "mesh": 25
+    },
+    {
+      "name": "_SH1TASHA_2",
+      "mesh": 26
+    },
+    {
+      "name": "_SH1HAIR_1",
+      "mesh": 27
+    },
+    {
+      "name": "_SH1TASHA_1",
+      "mesh": 28
+    },
+    {
+      "name": "_SH1TASHB_2",
+      "mesh": 29
+    },
+    {
+      "name": "_SH1TASHB_1",
+      "mesh": 30
+    },
+    {
+      "name": "_SH1EARS_1",
+      "mesh": 31
+    },
+    {
+      "name": "_SH1HAIR_3",
+      "mesh": 32
+    },
+    {
+      "name": "_SHBODY_1",
+      "mesh": 33
+    },
+    {
+      "name": "_SH1FIN_1",
+      "mesh": 34
+    },
+    {
+      "name": "_SH1FIN_2",
+      "mesh": 35
+    },
+    {
+      "name": "_SH1FIN_3",
+      "mesh": 36
+    },
+    {
+      "name": "_SH1BODYMISC_2",
+      "mesh": 37
+    },
+    {
+      "name": "_SH1ARMOUR_1",
+      "mesh": 38
+    },
+    {
+      "name": "_SH1BODYMISC_3",
+      "mesh": 39
+    },
+    {
+      "name": "_SH1BODYMISC_4",
+      "mesh": 40
+    },
+    {
+      "name": "_SH1FIN_4",
+      "mesh": 41
+    },
+    {
+      "name": "_SH1ARMOUR_2",
+      "mesh": 42
+    },
+    {
+      "name": "_SH1BODYMISC_1",
+      "mesh": 43
+    },
+    {
+      "name": "_SHTAIL_1",
+      "mesh": 44
+    },
+    {
+      "name": "_SH1TAILMISC_2",
+      "mesh": 45
+    },
+    {
+      "name": "_SH1TAILMISC_1",
+      "mesh": 46
+    },
+    {
+      "name": "_SH1TAILMISC_3",
+      "mesh": 47
+    },
+    {
+      "name": "_SH1TAILMISC_4",
+      "mesh": 48
+    },
+    {
+      "name": "_SHHEAD_2",
+      "mesh": 49
+    },
+    {
+      "name": "_SH2HAIR_3",
+      "mesh": 50
+    },
+    {
+      "name": "_SH2HAIR_4",
+      "mesh": 51
+    },
+    {
+      "name": "_SH2EARS_3",
+      "mesh": 52
+    },
+    {
+      "name": "_SH2TASHA_3",
+      "mesh": 53
+    },
+    {
+      "name": "_SH2EARS_2",
+      "mesh": 54
+    },
+    {
+      "name": "_SH2HAIR_2",
+      "mesh": 55
+    },
+    {
+      "name": "_SH2TASHA_2",
+      "mesh": 56
+    },
+    {
+      "name": "_SH2TASHB_2",
+      "mesh": 57
+    },
+    {
+      "name": "_SH2EARS_1",
+      "mesh": 58
+    },
+    {
+      "name": "_SH2HAIR_1",
+      "mesh": 59
+    },
+    {
+      "name": "_SH2TASHB_1",
+      "mesh": 60
+    },
+    {
+      "name": "_SH2TASHA_1",
+      "mesh": 61
+    },
+    {
+      "name": "_SHBODY_2",
+      "mesh": 62
+    },
+    {
+      "name": "_SH2BODYMISC_3",
+      "mesh": 63
+    },
+    {
+      "name": "_SH2BODYMISC_4",
+      "mesh": 64
+    },
+    {
+      "name": "_SH2BODYMISC_2",
+      "mesh": 65
+    },
+    {
+      "name": "_SH2BODYMISC_1",
+      "mesh": 66
+    },
+    {
+      "name": "_SH2ARMOUR_2",
+      "mesh": 67
+    },
+    {
+      "name": "_SH2ARMOUR_1",
+      "mesh": 68
+    },
+    {
+      "name": "_SH2FIN_1",
+      "mesh": 69
+    },
+    {
+      "name": "_SH2FIN_2",
+      "mesh": 70
+    },
+    {
+      "name": "_SH2FIN_3",
+      "mesh": 71
+    },
+    {
+      "name": "_SH2FIN_4",
+      "mesh": 72
+    },
+    {
+      "name": "_SHTAIL_2",
+      "mesh": 73
+    },
+    {
+      "name": "_SH2TAILMISCA_2",
+      "mesh": 74
+    },
+    {
+      "name": "_SH2TAILMISCA_3",
+      "mesh": 75
+    },
+    {
+      "name": "_SH2TAILMISCB_2",
+      "mesh": 76
+    },
+    {
+      "name": "_SH2TAILMISCA_1",
+      "mesh": 77
+    },
+    {
+      "name": "_SH2TAILMISCB_1",
+      "mesh": 78
+    },
+    {
+      "name": "_SHHEAD_3",
+      "mesh": 79
+    },
+    {
+      "name": "_SH3HAIR_2",
+      "mesh": 80
+    },
+    {
+      "name": "_SH3TASHA_2",
+      "mesh": 81
+    },
+    {
+      "name": "_SH3HAIR_1",
+      "mesh": 82
+    },
+    {
+      "name": "_SH3TASHA_1",
+      "mesh": 83
+    },
+    {
+      "name": "_SH3TASHB_2",
+      "mesh": 84
+    },
+    {
+      "name": "_SH3TASHB_1",
+      "mesh": 85
+    },
+    {
+      "name": "_SH3HAIR_3",
+      "mesh": 86
+    },
+    {
+      "name": "_SH3HAIR_4",
+      "mesh": 87
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SHOULDERUPPER_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINUPPER01_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINUPPER02_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLARGE01_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLARGE02_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLARGE03_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SHOULDERUPPER_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLARGE01_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLARGE02_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLARGE03_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINUPPER01_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINUPPER02_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SHOULDERLOWER_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLOWER01_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLOWER02_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLOWER03_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SHOULDERLOWER_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLOWER01_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLOWER02_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "FINLOWER03_L",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_CONTROL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_CONTROL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHHEAD_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1EARS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1HAIR_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1HAIR_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TASHA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1HAIR_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TASHA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TASHB_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TASHB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1EARS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1HAIR_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHBODY_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1FIN_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1FIN_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1FIN_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1BODYMISC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1ARMOUR_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1BODYMISC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1BODYMISC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1FIN_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1ARMOUR_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1BODYMISC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHTAIL_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TAILMISC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TAILMISC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TAILMISC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH1TAILMISC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHHEAD_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2HAIR_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2HAIR_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2EARS_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TASHA_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2EARS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2HAIR_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TASHA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TASHB_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2EARS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2HAIR_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TASHB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TASHA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHBODY_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2BODYMISC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2BODYMISC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2BODYMISC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2BODYMISC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2ARMOUR_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2ARMOUR_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2FIN_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2FIN_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2FIN_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2FIN_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHTAIL_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TAILMISCA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TAILMISCA_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TAILMISCB_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TAILMISCA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH2TAILMISCB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SHHEAD_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3HAIR_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3TASHA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3HAIR_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3TASHA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3TASHB_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3TASHB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3HAIR_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_SH3HAIR_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

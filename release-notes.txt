@@ -1,0 +1,8 @@
+- Added homepage
+  - SEO
+  - Screenshots
+- Added About page
+- Improved login screen
+- How to use JSON notes
+- Fix Creature dropdown names
+- Better error messages

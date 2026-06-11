@@ -1,0 +1,442 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "FLYINGLIZARD",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "name": "_HEAD_EAGLE",
+      "mesh": 0
+    },
+    {
+      "name": "_WINGS_EAGLE",
+      "mesh": 1
+    },
+    {
+      "name": "WINGACC_1",
+      "mesh": 2
+    },
+    {
+      "name": "ADDON_1",
+      "mesh": 3
+    },
+    {
+      "name": "WINGACC_1SHAPE",
+      "mesh": 4
+    },
+    {
+      "name": "WINGACC_2",
+      "mesh": 5
+    },
+    {
+      "name": "_HEAD_LIZARD",
+      "mesh": 6
+    },
+    {
+      "name": "_HLACC_1",
+      "mesh": 7
+    },
+    {
+      "name": "_HLACC_2",
+      "mesh": 8
+    },
+    {
+      "name": "_HLACC_3",
+      "mesh": 9
+    },
+    {
+      "name": "_BODY_LIZARD",
+      "mesh": 10
+    },
+    {
+      "name": "_WINGS_BIRD",
+      "mesh": 11
+    },
+    {
+      "name": "_BWACC_1",
+      "mesh": 12
+    },
+    {
+      "name": "_BWACC_0",
+      "mesh": 13
+    },
+    {
+      "name": "_HEAD_BIRD",
+      "mesh": 14
+    },
+    {
+      "name": "_HBACC_0",
+      "mesh": 15
+    },
+    {
+      "name": "_HBACC_1",
+      "mesh": 16
+    },
+    {
+      "name": "_HEAD_BIRDV2",
+      "mesh": 17
+    },
+    {
+      "name": "_HB1ACC_0",
+      "mesh": 18
+    },
+    {
+      "name": "_HB1ACC_1",
+      "mesh": 19
+    },
+    {
+      "name": "_HB1ACC_2",
+      "mesh": 20
+    },
+    {
+      "name": "_HB1ACC_2SHAPE",
+      "mesh": 21
+    },
+    {
+      "name": "_BODY_EAGLE",
+      "mesh": 22
+    },
+    {
+      "name": "_TAIL_EAGLE",
+      "mesh": 23
+    },
+    {
+      "name": "_WINGS_LIZARD",
+      "mesh": 24
+    },
+    {
+      "name": "_TAIL_LIZARD",
+      "mesh": 25
+    }
+  ],
+  "meshes": [
+    {
+      "name": "_HEAD_EAGLE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_WINGS_EAGLE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WINGACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ADDON_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WINGACC_1SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WINGACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_LIZARD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HLACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HLACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HLACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BODY_LIZARD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_WINGS_BIRD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BWACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BWACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_BIRD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HBACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HBACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_BIRDV2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HB1ACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HB1ACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HB1ACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HB1ACC_2SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BODY_EAGLE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_EAGLE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_WINGS_LIZARD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_LIZARD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

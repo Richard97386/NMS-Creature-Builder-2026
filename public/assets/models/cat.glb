@@ -1,0 +1,682 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "CAT",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "name": "PETACC_CURVER",
+      "mesh": 0
+    },
+    {
+      "name": "PETACC_CURVEL",
+      "mesh": 1
+    },
+    {
+      "name": "PETACC_ROUNDR",
+      "mesh": 2
+    },
+    {
+      "name": "PETACC_ROUNDL",
+      "mesh": 3
+    },
+    {
+      "name": "_BONECAT_",
+      "mesh": 4
+    },
+    {
+      "name": "_TYPE_ROUND",
+      "mesh": 5
+    },
+    {
+      "name": "_BODY_CURVESPIKE",
+      "mesh": 6
+    },
+    {
+      "name": "PETACC_CURVE",
+      "mesh": 7
+    },
+    {
+      "name": "_BODY_ROUNDA",
+      "mesh": 8
+    },
+    {
+      "name": "_BACK_PLATEHOLES",
+      "mesh": 9
+    },
+    {
+      "name": "_BACKHOLES_WORM",
+      "mesh": 10
+    },
+    {
+      "name": "_BACKHOLES_CRYSTALSA",
+      "mesh": 11
+    },
+    {
+      "name": "_BACKHOLES_SHROOMS",
+      "mesh": 12
+    },
+    {
+      "name": "COL_R",
+      "mesh": 13
+    },
+    {
+      "name": "COL_G",
+      "mesh": 14
+    },
+    {
+      "name": "COL_B",
+      "mesh": 15
+    },
+    {
+      "name": "COOKIE_IDX",
+      "mesh": 16
+    },
+    {
+      "name": "_BACK_PLATEHOLESSHAPE",
+      "mesh": 17
+    },
+    {
+      "name": "_BACK_PLATE",
+      "mesh": 18
+    },
+    {
+      "name": "_BACK_PLATETALL",
+      "mesh": 19
+    },
+    {
+      "name": "PETACC_ROUND",
+      "mesh": 20
+    },
+    {
+      "name": "_HEAD_A",
+      "mesh": 21
+    },
+    {
+      "name": "_EYES_A",
+      "mesh": 22
+    },
+    {
+      "name": "_EYES_B",
+      "mesh": 23
+    },
+    {
+      "name": "_PLATE_A",
+      "mesh": 24
+    },
+    {
+      "name": "_PLATE_FIN",
+      "mesh": 25
+    },
+    {
+      "name": "_PLATE_HORN",
+      "mesh": 26
+    },
+    {
+      "name": "_PLATE_HOLES",
+      "mesh": 27
+    },
+    {
+      "name": "_HEADHOLES_SHROOM",
+      "mesh": 28
+    },
+    {
+      "name": "COL_R",
+      "mesh": 29
+    },
+    {
+      "name": "COL_G",
+      "mesh": 30
+    },
+    {
+      "name": "COL_B",
+      "mesh": 31
+    },
+    {
+      "name": "COOKIE_IDX",
+      "mesh": 32
+    },
+    {
+      "name": "_HEADHOLES_SHROOMSHAPE",
+      "mesh": 33
+    },
+    {
+      "name": "_HEAD_B",
+      "mesh": 34
+    },
+    {
+      "name": "_EYESB_A",
+      "mesh": 35
+    },
+    {
+      "name": "_EYESB_B",
+      "mesh": 36
+    },
+    {
+      "name": "_ACC_SPIKES",
+      "mesh": 37
+    },
+    {
+      "name": "_ACC_CRYSTALS",
+      "mesh": 38
+    },
+    {
+      "name": "_ACC_NONE",
+      "mesh": 39
+    },
+    {
+      "name": "_LIMBS_A",
+      "mesh": 40
+    }
+  ],
+  "meshes": [
+    {
+      "name": "PETACC_CURVER",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_CURVEL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_ROUNDR",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_ROUNDL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BONECAT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TYPE_ROUND",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BODY_CURVESPIKE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_CURVE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BODY_ROUNDA",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_PLATEHOLES",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKHOLES_WORM",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKHOLES_CRYSTALSA",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACKHOLES_SHROOMS",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COOKIE_IDX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_PLATEHOLESSHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_PLATE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BACK_PLATETALL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_ROUND",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EYES_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EYES_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLATE_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLATE_FIN",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLATE_HORN",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PLATE_HOLES",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADHOLES_SHROOM",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COOKIE_IDX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEADHOLES_SHROOMSHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EYESB_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EYESB_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_SPIKES",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_CRYSTALS",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LIMBS_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

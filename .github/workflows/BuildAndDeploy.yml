@@ -1,0 +1,56 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: ['main']
+
+jobs:
+  build:
+    environment: github-pages
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Setup Secrets
+        env:
+          REACT_APP_ENABLE_ANALYTICS: ${{ secrets.REACT_APP_ENABLE_ANALYTICS }}
+        run: |
+          touch .env
+          echo REACT_APP_ENABLE_ANALYTICS="$REACT_APP_ENABLE_ANALYTICS" >> .env
+
+      - name: Install packages
+        run: npm ci --force
+
+      - name: Rebuild SEO
+        run: npm run seo
+
+      - name: Build TS
+        run: PUBLIC_URL="." npm run build
+
+      - name: Edit .gitignore
+        run: |
+          cd public
+          echo "/github-pages-deploy-action-temp-deployment-folder" > ./.gitignore
+          echo "" >> ./.gitignore
+          echo "preload.js" >> ./.gitignore
+          echo "electron.js" >> ./.gitignore
+
+      - name: Add .nojekyll
+        run: |
+          cd public
+          touch .nojekyll
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: build # The folder the action should deploy.

@@ -1,0 +1,1242 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "GRUNT",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ]
+    },
+    {
+      "name": "_HEAD_GRUNT",
+      "mesh": 0
+    },
+    {
+      "name": "_GHACCS_2",
+      "mesh": 1
+    },
+    {
+      "name": "_GH2ACCS_E",
+      "mesh": 2
+    },
+    {
+      "name": "_GH2ACCS_A",
+      "mesh": 3
+    },
+    {
+      "name": "_GH2ACCS_B",
+      "mesh": 4
+    },
+    {
+      "name": "_GH2ACCS_C",
+      "mesh": 5
+    },
+    {
+      "name": "_GH2ACCS_D",
+      "mesh": 6
+    },
+    {
+      "name": "_GHACCS_1",
+      "mesh": 7
+    },
+    {
+      "name": "_GH1ACCS_A",
+      "mesh": 8
+    },
+    {
+      "name": "_GH1ACCS_B",
+      "mesh": 9
+    },
+    {
+      "name": "_GH1ACCS_C",
+      "mesh": 10
+    },
+    {
+      "name": "_GH1ACCS_D",
+      "mesh": 11
+    },
+    {
+      "name": "_GH1ACCS_E",
+      "mesh": 12
+    },
+    {
+      "name": "_GH1ACCS_F",
+      "mesh": 13
+    },
+    {
+      "name": "_GH1ACCS_G",
+      "mesh": 14
+    },
+    {
+      "name": "_MESH_GRUNT",
+      "mesh": 15
+    },
+    {
+      "name": "_BGM_SHELLXRARE",
+      "mesh": 16
+    },
+    {
+      "name": "_BGM_SHOULDERSPIKESXRARE",
+      "mesh": 17
+    },
+    {
+      "name": "_BGM_SHAWL",
+      "mesh": 18
+    },
+    {
+      "name": "_BGM_NONE",
+      "mesh": 19
+    },
+    {
+      "name": "_BGF_CLAWSLONG",
+      "mesh": 20
+    },
+    {
+      "name": "_BGF_CLAWSSHORT",
+      "mesh": 21
+    },
+    {
+      "name": "_BGH_CLAWSLONG",
+      "mesh": 22
+    },
+    {
+      "name": "_BGH_CLAWSSHORT",
+      "mesh": 23
+    },
+    {
+      "name": "PETACC_GRUNT",
+      "mesh": 24
+    },
+    {
+      "name": "_HEAD_TURTLE",
+      "mesh": 25
+    },
+    {
+      "name": "_ACB_NONE",
+      "mesh": 26
+    },
+    {
+      "name": "_ACB_EARS3",
+      "mesh": 27
+    },
+    {
+      "name": "_ACB_EARS2",
+      "mesh": 28
+    },
+    {
+      "name": "_ACB_EARS",
+      "mesh": 29
+    },
+    {
+      "name": "_ACC_NONE",
+      "mesh": 30
+    },
+    {
+      "name": "_ACC_5",
+      "mesh": 31
+    },
+    {
+      "name": "_A_4",
+      "mesh": 32
+    },
+    {
+      "name": "_A_3",
+      "mesh": 33
+    },
+    {
+      "name": "_A_2",
+      "mesh": 34
+    },
+    {
+      "name": "_A_1",
+      "mesh": 35
+    },
+    {
+      "name": "_A_5",
+      "mesh": 36
+    },
+    {
+      "name": "_ACC_4",
+      "mesh": 37
+    },
+    {
+      "name": "_ACC_3",
+      "mesh": 38
+    },
+    {
+      "name": "_ACC_1",
+      "mesh": 39
+    },
+    {
+      "name": "_ACC3_1",
+      "mesh": 40
+    },
+    {
+      "name": "_ACC3_NONE",
+      "mesh": 41
+    },
+    {
+      "name": "_ACC_SHAPE1",
+      "mesh": 42
+    },
+    {
+      "name": "_ACC_2",
+      "mesh": 43
+    },
+    {
+      "name": "_ACC2_1",
+      "mesh": 44
+    },
+    {
+      "name": "_ACC2_NONE",
+      "mesh": 45
+    },
+    {
+      "name": "_ACC_2SHAPE",
+      "mesh": 46
+    },
+    {
+      "name": "_MESH_TURTLE",
+      "mesh": 47
+    },
+    {
+      "name": "_ACCB_BLONGCLW",
+      "mesh": 48
+    },
+    {
+      "name": "_ACCB_BFEATHERS",
+      "mesh": 49
+    },
+    {
+      "name": "_ACCB_FEATHERS",
+      "mesh": 50
+    },
+    {
+      "name": "_ACCB_NONE",
+      "mesh": 51
+    },
+    {
+      "name": "_TBACC_NONE",
+      "mesh": 52
+    },
+    {
+      "name": "PETACC_TURTLENONE",
+      "mesh": 53
+    },
+    {
+      "name": "_TBACC_2",
+      "mesh": 54
+    },
+    {
+      "name": "PETACC_TURTLESHELL2",
+      "mesh": 55
+    },
+    {
+      "name": "_TBACC_SHAPE2",
+      "mesh": 56
+    },
+    {
+      "name": "_TBACC_1",
+      "mesh": 57
+    },
+    {
+      "name": "PETACC_TURTLESHELL1",
+      "mesh": 58
+    },
+    {
+      "name": "_TBACC_1SHAPE",
+      "mesh": 59
+    },
+    {
+      "name": "PETACC_GRUNTB",
+      "mesh": 60
+    },
+    {
+      "name": "PETACC_TURTLENONEB",
+      "mesh": 61
+    },
+    {
+      "name": "PETACC_TURTLENONEF",
+      "mesh": 62
+    },
+    {
+      "name": "PETACC_TURTLESHELL2F",
+      "mesh": 63
+    },
+    {
+      "name": "PETACC_TURTLESHELL1F",
+      "mesh": 64
+    },
+    {
+      "name": "PETACC_GRUNTF",
+      "mesh": 65
+    },
+    {
+      "name": "PETACC_TURTLESHELL2B",
+      "mesh": 66
+    },
+    {
+      "name": "PETACC_TURTLESHELL1B",
+      "mesh": 67
+    },
+    {
+      "name": "_BODY_GRUNT",
+      "mesh": 68
+    },
+    {
+      "name": "_BODY_GRUNTFLOATXRARE",
+      "mesh": 69
+    },
+    {
+      "name": "_WING_1",
+      "mesh": 70
+    },
+    {
+      "name": "_WING_2",
+      "mesh": 71
+    },
+    {
+      "name": "_WING_3",
+      "mesh": 72
+    },
+    {
+      "name": "_WING_4",
+      "mesh": 73
+    },
+    {
+      "name": "_WING_5",
+      "mesh": 74
+    },
+    {
+      "name": "_WING_6",
+      "mesh": 75
+    }
+  ],
+  "meshes": [
+    {
+      "name": "HEAD_GRUNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GHACCS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH2ACCS_E",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH2ACCS_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH2ACCS_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH2ACCS_C",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH2ACCS_D",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GHACCS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_C",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_D",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_E",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_F",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "GH1ACCS_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MESH_GRUNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGM_SHELLXRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGM_SHOULDERSPIKESXRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGM_SHAWL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGM_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGF_CLAWSLONG",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGF_CLAWSSHORT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGH_CLAWSLONG",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BGH_CLAWSSHORT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_GRUNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_TURTLE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACB_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACB_EARS3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACB_EARS2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACB_EARS",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "A_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "A_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "A_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "A_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "A_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC3_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC3_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_SHAPE1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC2_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC2_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACC_2SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MESH_TURTLE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACCB_BLONGCLW",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACCB_BFEATHERS",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACCB_FEATHERS",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ACCB_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TBACC_NONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLENONE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TBACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLESHELL2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TBACC_SHAPE2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TBACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLESHELL1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TBACC_1SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_GRUNTB",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLENONEB",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLENONEF",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLESHELL2F",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLESHELL1F",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_GRUNTF",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLESHELL2B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TURTLESHELL1B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BODY_GRUNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "BODY_GRUNTFLOATXRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

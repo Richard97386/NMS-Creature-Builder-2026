@@ -1,0 +1,3626 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "TREX",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225
+      ]
+    },
+    {
+      "name": "_TREX_3XRARE",
+      "mesh": 0
+    },
+    {
+      "name": "_TOPB_1",
+      "mesh": 1
+    },
+    {
+      "name": "_HEADB_1",
+      "mesh": 2
+    },
+    {
+      "name": "_JELLYFINGERS_3",
+      "mesh": 3
+    },
+    {
+      "name": "_EYESE_1",
+      "mesh": 4
+    },
+    {
+      "name": "_ACCH_1",
+      "mesh": 5
+    },
+    {
+      "name": "_EBALLSD_1",
+      "mesh": 6
+    },
+    {
+      "name": "_ACCH_SHAPE1",
+      "mesh": 7
+    },
+    {
+      "name": "_MOUTHE_1",
+      "mesh": 8
+    },
+    {
+      "name": "_HEADB_SHAPE1",
+      "mesh": 9
+    },
+    {
+      "name": "_BACKPACK_1",
+      "mesh": 10
+    },
+    {
+      "name": "_TOPB_SHAPE1",
+      "mesh": 11
+    },
+    {
+      "name": "_TAILB_ALIEN1",
+      "mesh": 12
+    },
+    {
+      "name": "_VERS_1",
+      "mesh": 13
+    },
+    {
+      "name": "_VERS_2",
+      "mesh": 14
+    },
+    {
+      "name": "_VERS_3A",
+      "mesh": 15
+    },
+    {
+      "name": "_TAILB_ALIEN1SHAPE",
+      "mesh": 16
+    },
+    {
+      "name": "PETACC_TREXRARE",
+      "mesh": 17
+    },
+    {
+      "name": "PETACC_TREXF",
+      "mesh": 18
+    },
+    {
+      "name": "PETACC_RATF",
+      "mesh": 19
+    },
+    {
+      "name": "PETACC_BIRDREXF",
+      "mesh": 20
+    },
+    {
+      "name": "PETACC_HOLESRAREF",
+      "mesh": 21
+    },
+    {
+      "name": "PETACC_TREXR",
+      "mesh": 22
+    },
+    {
+      "name": "PETACC_TREXL",
+      "mesh": 23
+    },
+    {
+      "name": "PETACC_RATR",
+      "mesh": 24
+    },
+    {
+      "name": "PETACC_RATL",
+      "mesh": 25
+    },
+    {
+      "name": "PETACC_BIRDREXR",
+      "mesh": 26
+    },
+    {
+      "name": "PETACC_BIRDREXL",
+      "mesh": 27
+    },
+    {
+      "name": "PETACC_TREXRARER",
+      "mesh": 28
+    },
+    {
+      "name": "PETACC_TREXRAREL",
+      "mesh": 29
+    },
+    {
+      "name": "_TREX_4",
+      "mesh": 30
+    },
+    {
+      "name": "_HEAD_BIRDREX",
+      "mesh": 31
+    },
+    {
+      "name": "_BRHACC_9A",
+      "mesh": 32
+    },
+    {
+      "name": "_BRHACC_8",
+      "mesh": 33
+    },
+    {
+      "name": "_BRHACC_7A",
+      "mesh": 34
+    },
+    {
+      "name": "_BRHACC_6",
+      "mesh": 35
+    },
+    {
+      "name": "_BRHACC_4",
+      "mesh": 36
+    },
+    {
+      "name": "_BRHACC_3",
+      "mesh": 37
+    },
+    {
+      "name": "_BRHACC_2",
+      "mesh": 38
+    },
+    {
+      "name": "_BRHACC_1",
+      "mesh": 39
+    },
+    {
+      "name": "_BRHACC_NULL",
+      "mesh": 40
+    },
+    {
+      "name": "_HEAD_LIZ",
+      "mesh": 41
+    },
+    {
+      "name": "_LHACC_0",
+      "mesh": 42
+    },
+    {
+      "name": "_LHACC_1",
+      "mesh": 43
+    },
+    {
+      "name": "_LHACC_2",
+      "mesh": 44
+    },
+    {
+      "name": "_LHACC_3",
+      "mesh": 45
+    },
+    {
+      "name": "_LHACC_4",
+      "mesh": 46
+    },
+    {
+      "name": "_LHACC_5A",
+      "mesh": 47
+    },
+    {
+      "name": "_LHACC_6",
+      "mesh": 48
+    },
+    {
+      "name": "_LHACC_7A",
+      "mesh": 49
+    },
+    {
+      "name": "_LHACC_8",
+      "mesh": 50
+    },
+    {
+      "name": "_LHACC_9",
+      "mesh": 51
+    },
+    {
+      "name": "_LHACC_10A",
+      "mesh": 52
+    },
+    {
+      "name": "_HEAD_RHINO",
+      "mesh": 53
+    },
+    {
+      "name": "_RHIHACC_12",
+      "mesh": 54
+    },
+    {
+      "name": "_RHIHACC_10",
+      "mesh": 55
+    },
+    {
+      "name": "_RHIHACC_11",
+      "mesh": 56
+    },
+    {
+      "name": "_RHINOHEARS_1",
+      "mesh": 57
+    },
+    {
+      "name": "_RHINOHEARS_2",
+      "mesh": 58
+    },
+    {
+      "name": "_RHIHACC_5",
+      "mesh": 59
+    },
+    {
+      "name": "_RHIHACC_5SHAPE",
+      "mesh": 60
+    },
+    {
+      "name": "_RHIHACC_8",
+      "mesh": 61
+    },
+    {
+      "name": "_HEAD_CROC",
+      "mesh": 62
+    },
+    {
+      "name": "_CHACC_3A1",
+      "mesh": 63
+    },
+    {
+      "name": "_CHACC_4",
+      "mesh": 64
+    },
+    {
+      "name": "_CHACC_2",
+      "mesh": 65
+    },
+    {
+      "name": "_CHACC_1",
+      "mesh": 66
+    },
+    {
+      "name": "_CHACC_0",
+      "mesh": 67
+    },
+    {
+      "name": "_HEAD_TREX",
+      "mesh": 68
+    },
+    {
+      "name": "_TRTEETH_1",
+      "mesh": 69
+    },
+    {
+      "name": "TRTEETHBOT_1",
+      "mesh": 70
+    },
+    {
+      "name": "_TRTEETH_1SHAPE",
+      "mesh": 71
+    },
+    {
+      "name": "_TRTEETH_2",
+      "mesh": 72
+    },
+    {
+      "name": "TRTEETHBOT_2",
+      "mesh": 73
+    },
+    {
+      "name": "_TRTEETH_2SHAPE",
+      "mesh": 74
+    },
+    {
+      "name": "_TRTEETH_3",
+      "mesh": 75
+    },
+    {
+      "name": "TRTEETHBOT_3",
+      "mesh": 76
+    },
+    {
+      "name": "_TRTEETH_3SHAPE",
+      "mesh": 77
+    },
+    {
+      "name": "_REXSET_1",
+      "mesh": 78
+    },
+    {
+      "name": "_REXS1_3",
+      "mesh": 79
+    },
+    {
+      "name": "_REXS1_4",
+      "mesh": 80
+    },
+    {
+      "name": "_REXS1J_2",
+      "mesh": 81
+    },
+    {
+      "name": "_REXS1J_NULL1",
+      "mesh": 82
+    },
+    {
+      "name": "_REXSET_2",
+      "mesh": 83
+    },
+    {
+      "name": "_REXHEADJ_NULL",
+      "mesh": 84
+    },
+    {
+      "name": "_REXHEADJ_1",
+      "mesh": 85
+    },
+    {
+      "name": "_REXHEAD_7",
+      "mesh": 86
+    },
+    {
+      "name": "_REXHEAD_6",
+      "mesh": 87
+    },
+    {
+      "name": "_REXHEAD_1",
+      "mesh": 88
+    },
+    {
+      "name": "_REXHEAD_9",
+      "mesh": 89
+    },
+    {
+      "name": "_REXSET_3",
+      "mesh": 90
+    },
+    {
+      "name": "_HEAD_RAT",
+      "mesh": 91
+    },
+    {
+      "name": "_REAR_0XRARE",
+      "mesh": 92
+    },
+    {
+      "name": "_RHACC_0",
+      "mesh": 93
+    },
+    {
+      "name": "_REAR_1B",
+      "mesh": 94
+    },
+    {
+      "name": "_REAR_2A",
+      "mesh": 95
+    },
+    {
+      "name": "_REAR_3A",
+      "mesh": 96
+    },
+    {
+      "name": "_REAR_4",
+      "mesh": 97
+    },
+    {
+      "name": "_RHACC_3A",
+      "mesh": 98
+    },
+    {
+      "name": "_RHACC_5A",
+      "mesh": 99
+    },
+    {
+      "name": "_RHACC_6A",
+      "mesh": 100
+    },
+    {
+      "name": "_RHACC_7A",
+      "mesh": 101
+    },
+    {
+      "name": "_HEAD_TOUCANA",
+      "mesh": 102
+    },
+    {
+      "name": "_THACC_6B",
+      "mesh": 103
+    },
+    {
+      "name": "_THACC_1",
+      "mesh": 104
+    },
+    {
+      "name": "_THACC_4",
+      "mesh": 105
+    },
+    {
+      "name": "_THACC_5",
+      "mesh": 106
+    },
+    {
+      "name": "_THACC_3A",
+      "mesh": 107
+    },
+    {
+      "name": "_THACC_2A",
+      "mesh": 108
+    },
+    {
+      "name": "_THACC_0",
+      "mesh": 109
+    },
+    {
+      "name": "_HEAD_ALIEN",
+      "mesh": 110
+    },
+    {
+      "name": "_BLOB_2B",
+      "mesh": 111
+    },
+    {
+      "name": "_ANTENNAS_1",
+      "mesh": 112
+    },
+    {
+      "name": "_ANTENNAS_2",
+      "mesh": 113
+    },
+    {
+      "name": "_ANTENNAS_3",
+      "mesh": 114
+    },
+    {
+      "name": "_EYES_2",
+      "mesh": 115
+    },
+    {
+      "name": "_ORBS_1",
+      "mesh": 116
+    },
+    {
+      "name": "_EYES_SHAPE2",
+      "mesh": 117
+    },
+    {
+      "name": "_EYES_1",
+      "mesh": 118
+    },
+    {
+      "name": "_EYES_5",
+      "mesh": 119
+    },
+    {
+      "name": "_ORBSC_1",
+      "mesh": 120
+    },
+    {
+      "name": "_MOUTHW_2",
+      "mesh": 121
+    },
+    {
+      "name": "_MOUTHW_1",
+      "mesh": 122
+    },
+    {
+      "name": "_EYES_SHAPE5",
+      "mesh": 123
+    },
+    {
+      "name": "_EYES_3",
+      "mesh": 124
+    },
+    {
+      "name": "_JELLYFINGERS_2",
+      "mesh": 125
+    },
+    {
+      "name": "_JELLYFINGERS_1",
+      "mesh": 126
+    },
+    {
+      "name": "_MOUTHF_1",
+      "mesh": 127
+    },
+    {
+      "name": "_MOUTHF_2",
+      "mesh": 128
+    },
+    {
+      "name": "_JELLYFINGERS_SHAPE1",
+      "mesh": 129
+    },
+    {
+      "name": "_EYES_3SHAPE",
+      "mesh": 130
+    },
+    {
+      "name": "_EYES_4",
+      "mesh": 131
+    },
+    {
+      "name": "_ORBSB_2",
+      "mesh": 132
+    },
+    {
+      "name": "_EYES_SHAPE4",
+      "mesh": 133
+    },
+    {
+      "name": "_BLOB_2BSHAPE",
+      "mesh": 134
+    },
+    {
+      "name": "_BLOB_1C1",
+      "mesh": 135
+    },
+    {
+      "name": "_EYESB_2",
+      "mesh": 136
+    },
+    {
+      "name": "_EYESB_1",
+      "mesh": 137
+    },
+    {
+      "name": "_MOUTH_1",
+      "mesh": 138
+    },
+    {
+      "name": "_BLOB_1C1SHAPE",
+      "mesh": 139
+    },
+    {
+      "name": "_BODY_BIRDREX",
+      "mesh": 140
+    },
+    {
+      "name": "_BBRACC_1N",
+      "mesh": 141
+    },
+    {
+      "name": "_BBRACC_2N",
+      "mesh": 142
+    },
+    {
+      "name": "_BBRACC_3N",
+      "mesh": 143
+    },
+    {
+      "name": "_BBRACC_4N",
+      "mesh": 144
+    },
+    {
+      "name": "_BBRACC_5N",
+      "mesh": 145
+    },
+    {
+      "name": "_BBRACC_6N",
+      "mesh": 146
+    },
+    {
+      "name": "COL_R",
+      "mesh": 147
+    },
+    {
+      "name": "COL_G",
+      "mesh": 148
+    },
+    {
+      "name": "COL_B",
+      "mesh": 149
+    },
+    {
+      "name": "COOKIE_IDX",
+      "mesh": 150
+    },
+    {
+      "name": "_BBRACC_6NSHAPE",
+      "mesh": 151
+    },
+    {
+      "name": "_BBRACC_12OK",
+      "mesh": 152
+    },
+    {
+      "name": "_BBRACC_11OK",
+      "mesh": 153
+    },
+    {
+      "name": "_BBRACC_24OK",
+      "mesh": 154
+    },
+    {
+      "name": "_BBRACC_0",
+      "mesh": 155
+    },
+    {
+      "name": "_BBRACC_2",
+      "mesh": 156
+    },
+    {
+      "name": "_BBRACC_2SHAPE",
+      "mesh": 157
+    },
+    {
+      "name": "PETACC_BIRDREX",
+      "mesh": 158
+    },
+    {
+      "name": "_BODY_RAT",
+      "mesh": 159
+    },
+    {
+      "name": "_RATBACK_25",
+      "mesh": 160
+    },
+    {
+      "name": "_RATBACK_2XRARE",
+      "mesh": 161
+    },
+    {
+      "name": "_RATBACK_4XRARE",
+      "mesh": 162
+    },
+    {
+      "name": "_RATBACK_3A",
+      "mesh": 163
+    },
+    {
+      "name": "_RATBACK_1N",
+      "mesh": 164
+    },
+    {
+      "name": "_RATBACK_2N",
+      "mesh": 165
+    },
+    {
+      "name": "_RATBACK_3N",
+      "mesh": 166
+    },
+    {
+      "name": "_RATBACK_4N",
+      "mesh": 167
+    },
+    {
+      "name": "_RATBACK_5N",
+      "mesh": 168
+    },
+    {
+      "name": "_RATBACK_6N",
+      "mesh": 169
+    },
+    {
+      "name": "COL_R",
+      "mesh": 170
+    },
+    {
+      "name": "COL_G",
+      "mesh": 171
+    },
+    {
+      "name": "COL_B",
+      "mesh": 172
+    },
+    {
+      "name": "COOKIE_IDX",
+      "mesh": 173
+    },
+    {
+      "name": "_RATBACK_6NSHAPE",
+      "mesh": 174
+    },
+    {
+      "name": "_RATBACK_12OK",
+      "mesh": 175
+    },
+    {
+      "name": "_RATBACK_11OK",
+      "mesh": 176
+    },
+    {
+      "name": "_RATBACK_24OK",
+      "mesh": 177
+    },
+    {
+      "name": "_RATBACK_2",
+      "mesh": 178
+    },
+    {
+      "name": "_RATBACK_2SHAPE",
+      "mesh": 179
+    },
+    {
+      "name": "PETACC_RAT",
+      "mesh": 180
+    },
+    {
+      "name": "_BODY_TREX",
+      "mesh": 181
+    },
+    {
+      "name": "_REXBACK_0",
+      "mesh": 182
+    },
+    {
+      "name": "_REXBACK_2XRARE",
+      "mesh": 183
+    },
+    {
+      "name": "_REXBACK_4XRARE",
+      "mesh": 184
+    },
+    {
+      "name": "_REXBACK_3A",
+      "mesh": 185
+    },
+    {
+      "name": "_REXBACK_1N",
+      "mesh": 186
+    },
+    {
+      "name": "_REXBACK_2N",
+      "mesh": 187
+    },
+    {
+      "name": "_REXBACK_3N",
+      "mesh": 188
+    },
+    {
+      "name": "_REXBACK_4N",
+      "mesh": 189
+    },
+    {
+      "name": "_REXBACK_5N",
+      "mesh": 190
+    },
+    {
+      "name": "_REXBACK_6N",
+      "mesh": 191
+    },
+    {
+      "name": "COL_R",
+      "mesh": 192
+    },
+    {
+      "name": "COL_G",
+      "mesh": 193
+    },
+    {
+      "name": "COL_B",
+      "mesh": 194
+    },
+    {
+      "name": "COOKIE_IDX",
+      "mesh": 195
+    },
+    {
+      "name": "_REXBACK_6NSHAPE",
+      "mesh": 196
+    },
+    {
+      "name": "_REXBACK_12OK",
+      "mesh": 197
+    },
+    {
+      "name": "_REXBACK_11OK",
+      "mesh": 198
+    },
+    {
+      "name": "_REXBACK_24OK",
+      "mesh": 199
+    },
+    {
+      "name": "_REXBACK_2",
+      "mesh": 200
+    },
+    {
+      "name": "_REXBACK_2SHAPE",
+      "mesh": 201
+    },
+    {
+      "name": "PETACC_TREX",
+      "mesh": 202
+    },
+    {
+      "name": "_BODY_HOLESXRARE",
+      "mesh": 203
+    },
+    {
+      "name": "_LIMBS_1A",
+      "mesh": 204
+    },
+    {
+      "name": "_BACKACC_4",
+      "mesh": 205
+    },
+    {
+      "name": "_BACKACC_3",
+      "mesh": 206
+    },
+    {
+      "name": "_BACKACC_1A",
+      "mesh": 207
+    },
+    {
+      "name": "_BACKACC_2A",
+      "mesh": 208
+    },
+    {
+      "name": "PETACC_HOLESRARE",
+      "mesh": 209
+    },
+    {
+      "name": "_TAIL_TREX",
+      "mesh": 210
+    },
+    {
+      "name": "_REXTAILACC_1XRARE",
+      "mesh": 211
+    },
+    {
+      "name": "_REXTAILACC_2XRARE",
+      "mesh": 212
+    },
+    {
+      "name": "_REXTAILACC_0",
+      "mesh": 213
+    },
+    {
+      "name": "_TAIL_BIRDREX",
+      "mesh": 214
+    },
+    {
+      "name": "_TBRACC_0",
+      "mesh": 215
+    },
+    {
+      "name": "_TBRACC_1",
+      "mesh": 216
+    },
+    {
+      "name": "_TAIL_RAT",
+      "mesh": 217
+    },
+    {
+      "name": "_TAIL_TOUCAN",
+      "mesh": 218
+    },
+    {
+      "name": "_TTACC_0",
+      "mesh": 219
+    },
+    {
+      "name": "_TTACC_1",
+      "mesh": 220
+    },
+    {
+      "name": "_TAIL_ALIENXRARE",
+      "mesh": 221
+    },
+    {
+      "name": "_VERSION_1",
+      "mesh": 222
+    },
+    {
+      "name": "_VERSION_2",
+      "mesh": 223
+    },
+    {
+      "name": "_VERSION_3A",
+      "mesh": 224
+    }
+  ],
+  "meshes": [
+    {
+      "name": "_TREX_3XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TOPB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEADB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_JELLYFINGERS_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYESE_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ACCH_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EBALLSD_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ACCH_SHAPE1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_MOUTHE_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEADB_SHAPE1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BACKPACK_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TOPB_SHAPE1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAILB_ALIEN1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_VERS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_VERS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_VERS_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAILB_ALIEN1SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREXRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREXF",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_RATF",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_BIRDREXF",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_HOLESRAREF",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREXR",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREXL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_RATR",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_RATL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_BIRDREXR",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_BIRDREXL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREXRARER",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREXRAREL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TREX_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_BIRDREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_9A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_8",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_7A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BRHACC_NULL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_LIZ",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_5A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_7A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_8",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_9",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LHACC_10A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_RHINO",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHIHACC_12",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHIHACC_10",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHIHACC_11",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHINOHEARS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHINOHEARS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHIHACC_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHIHACC_5SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHIHACC_8",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_CROC",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_CHACC_3A1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_CHACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_CHACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_CHACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_CHACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_TREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TRTEETH_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRTEETHBOT_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TRTEETH_1SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TRTEETH_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRTEETHBOT_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TRTEETH_2SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TRTEETH_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TRTEETHBOT_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TRTEETH_3SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXSET_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXS1_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXS1_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXS1J_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXS1J_NULL1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXSET_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXHEADJ_NULL",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXHEADJ_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXHEAD_7",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXHEAD_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXHEAD_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXHEAD_9",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXSET_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_RAT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REAR_0XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REAR_1B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REAR_2A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REAR_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REAR_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHACC_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHACC_5A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHACC_6A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RHACC_7A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_TOUCANA",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_6B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_2A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_THACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_HEAD_ALIEN",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BLOB_2B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ANTENNAS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ANTENNAS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ANTENNAS_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ORBS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_SHAPE2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ORBSC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_MOUTHW_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_MOUTHW_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_SHAPE5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_JELLYFINGERS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_JELLYFINGERS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_MOUTHF_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_MOUTHF_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_JELLYFINGERS_SHAPE1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_3SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_ORBSB_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYES_SHAPE4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BLOB_2BSHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BLOB_1C1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYESB_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_EYESB_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_MOUTH_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BLOB_1C1SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BODY_BIRDREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_1N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_2N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_3N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_4N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_5N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_6N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COOKIE_IDX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_6NSHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_12OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_11OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_24OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BBRACC_2SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_BIRDREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BODY_RAT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_25",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_2XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_4XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_1N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_2N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_3N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_4N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_5N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_6N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COOKIE_IDX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_6NSHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_12OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_11OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_24OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_RATBACK_2SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_RAT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BODY_TREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_2XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_4XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_1N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_2N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_3N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_4N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_5N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_6N",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_R",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_G",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COL_B",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "COOKIE_IDX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_6NSHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_12OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_11OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_24OK",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXBACK_2SHAPE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_TREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BODY_HOLESXRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_LIMBS_1A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BACKACC_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BACKACC_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BACKACC_1A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_BACKACC_2A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "PETACC_HOLESRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_TREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXTAILACC_1XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXTAILACC_2XRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_REXTAILACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_BIRDREX",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TBRACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TBRACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_RAT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_TOUCAN",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TTACC_0",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TTACC_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_TAIL_ALIENXRARE",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_VERSION_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_VERSION_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "_VERSION_3A",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

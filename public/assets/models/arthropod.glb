@@ -1,0 +1,2442 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "ARTHROPOD",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151
+      ]
+    },
+    {
+      "name": "LOCAL_C0_0_JNT",
+      "mesh": 0
+    },
+    {
+      "name": "SPINE_C0_0_JNT",
+      "mesh": 1
+    },
+    {
+      "name": "RIDING_JNT",
+      "mesh": 2
+    },
+    {
+      "name": "TAIL_C0_0_JNT",
+      "mesh": 3
+    },
+    {
+      "name": "TAIL_C0_1_JNT",
+      "mesh": 4
+    },
+    {
+      "name": "TAIL_C0_2_JNT",
+      "mesh": 5
+    },
+    {
+      "name": "LEGBASE_R0_0_JNT",
+      "mesh": 6
+    },
+    {
+      "name": "LEG_R0_0_JNT",
+      "mesh": 7
+    },
+    {
+      "name": "LEG_R0_1_JNT",
+      "mesh": 8
+    },
+    {
+      "name": "LEG_R0_2_JNT",
+      "mesh": 9
+    },
+    {
+      "name": "LEG_R0_3_JNT",
+      "mesh": 10
+    },
+    {
+      "name": "LEG_R0_END_JNT",
+      "mesh": 11
+    },
+    {
+      "name": "LEGBASE_R1_0_JNT",
+      "mesh": 12
+    },
+    {
+      "name": "LEG_R1_0_JNT",
+      "mesh": 13
+    },
+    {
+      "name": "LEG_R1_1_JNT",
+      "mesh": 14
+    },
+    {
+      "name": "LEG_R1_2_JNT",
+      "mesh": 15
+    },
+    {
+      "name": "LEG_R1_3_JNT",
+      "mesh": 16
+    },
+    {
+      "name": "LEG_R1_END_JNT",
+      "mesh": 17
+    },
+    {
+      "name": "LEGBASE_R2_0_JNT",
+      "mesh": 18
+    },
+    {
+      "name": "LEG_R2_0_JNT",
+      "mesh": 19
+    },
+    {
+      "name": "LEG_R2_1_JNT",
+      "mesh": 20
+    },
+    {
+      "name": "LEG_R2_2_JNT",
+      "mesh": 21
+    },
+    {
+      "name": "LEG_R2_3_JNT",
+      "mesh": 22
+    },
+    {
+      "name": "LEG_R2_END_JNT",
+      "mesh": 23
+    },
+    {
+      "name": "LEGBASE_L0_0_JNT",
+      "mesh": 24
+    },
+    {
+      "name": "LEG_L0_0_JNT",
+      "mesh": 25
+    },
+    {
+      "name": "LEG_L0_1_JNT",
+      "mesh": 26
+    },
+    {
+      "name": "LEG_L0_2_JNT",
+      "mesh": 27
+    },
+    {
+      "name": "LEG_L0_3_JNT",
+      "mesh": 28
+    },
+    {
+      "name": "LEG_L0_END_JNT",
+      "mesh": 29
+    },
+    {
+      "name": "LEGBASE_L1_0_JNT",
+      "mesh": 30
+    },
+    {
+      "name": "LEG_L1_0_JNT",
+      "mesh": 31
+    },
+    {
+      "name": "LEG_L1_1_JNT",
+      "mesh": 32
+    },
+    {
+      "name": "LEG_L1_2_JNT",
+      "mesh": 33
+    },
+    {
+      "name": "LEG_L1_3_JNT",
+      "mesh": 34
+    },
+    {
+      "name": "LEG_L1_END_JNT",
+      "mesh": 35
+    },
+    {
+      "name": "LEGBASE_L2_0_JNT",
+      "mesh": 36
+    },
+    {
+      "name": "LEG_L2_0_JNT",
+      "mesh": 37
+    },
+    {
+      "name": "LEG_L2_1_JNT",
+      "mesh": 38
+    },
+    {
+      "name": "LEG_L2_2_JNT",
+      "mesh": 39
+    },
+    {
+      "name": "LEG_L2_3_JNT",
+      "mesh": 40
+    },
+    {
+      "name": "LEG_L2_END_JNT",
+      "mesh": 41
+    },
+    {
+      "name": "HEAD_C0_0_JNT",
+      "mesh": 42
+    },
+    {
+      "name": "MANDIBLE_R0_0_JNT",
+      "mesh": 43
+    },
+    {
+      "name": "MANDIBLE_R0_1_JNT",
+      "mesh": 44
+    },
+    {
+      "name": "MANDIBLE_L0_0_JNT",
+      "mesh": 45
+    },
+    {
+      "name": "MANDIBLE_L0_1_JNT",
+      "mesh": 46
+    },
+    {
+      "name": "ANTENNA_R0_0_JNT",
+      "mesh": 47
+    },
+    {
+      "name": "ANTENNA_R0_1_JNT",
+      "mesh": 48
+    },
+    {
+      "name": "ANTENNA_R0_2_JNT",
+      "mesh": 49
+    },
+    {
+      "name": "ANTENNA_L0_0_JNT",
+      "mesh": 50
+    },
+    {
+      "name": "ANTENNA_L0_1_JNT",
+      "mesh": 51
+    },
+    {
+      "name": "ANTENNA_L0_2_JNT",
+      "mesh": 52
+    },
+    {
+      "name": "ROOT_C0_0_JNT",
+      "mesh": 53
+    },
+    {
+      "name": "_ARTHROPOD_1",
+      "mesh": 54
+    },
+    {
+      "name": "_APODHEADUPPER_1",
+      "mesh": 55
+    },
+    {
+      "name": "_APOD1ANTENNA_3",
+      "mesh": 56
+    },
+    {
+      "name": "_APOD1ANTENNA_4",
+      "mesh": 57
+    },
+    {
+      "name": "_APOD1ANTENNA_5",
+      "mesh": 58
+    },
+    {
+      "name": "_APOD1ANTENNA_1",
+      "mesh": 59
+    },
+    {
+      "name": "_APOD1ANTENNA_2",
+      "mesh": 60
+    },
+    {
+      "name": "_APODHEADUPPER_2",
+      "mesh": 61
+    },
+    {
+      "name": "_APOD2ANTENNA_1",
+      "mesh": 62
+    },
+    {
+      "name": "_APOD2ANTENNA_2",
+      "mesh": 63
+    },
+    {
+      "name": "_APOD2ANTENNA_3",
+      "mesh": 64
+    },
+    {
+      "name": "_APOD2ANTENNA_4",
+      "mesh": 65
+    },
+    {
+      "name": "_APOD2ANTENNA_5",
+      "mesh": 66
+    },
+    {
+      "name": "_APOD2ANTENNA_6",
+      "mesh": 67
+    },
+    {
+      "name": "_APODHEADUPPER_3",
+      "mesh": 68
+    },
+    {
+      "name": "_APOD3ANTENNA_1",
+      "mesh": 69
+    },
+    {
+      "name": "_APOD3ANTENNA_2",
+      "mesh": 70
+    },
+    {
+      "name": "_APOD3ANTENNA_3",
+      "mesh": 71
+    },
+    {
+      "name": "_APOD3ANTENNA_4",
+      "mesh": 72
+    },
+    {
+      "name": "_APODHEADUPPER_4",
+      "mesh": 73
+    },
+    {
+      "name": "_APOD3EYES_2",
+      "mesh": 74
+    },
+    {
+      "name": "_APOD3HORN_1",
+      "mesh": 75
+    },
+    {
+      "name": "_APOD3HORN_2",
+      "mesh": 76
+    },
+    {
+      "name": "_APOD3HORN_3",
+      "mesh": 77
+    },
+    {
+      "name": "_APOD3HORN_4",
+      "mesh": 78
+    },
+    {
+      "name": "_APOD3HORN_5",
+      "mesh": 79
+    },
+    {
+      "name": "_APOD3HORN_6",
+      "mesh": 80
+    },
+    {
+      "name": "_APOD3EYES_1",
+      "mesh": 81
+    },
+    {
+      "name": "_APODHEADUPPER_5",
+      "mesh": 82
+    },
+    {
+      "name": "_APOD5ANTENNA_1",
+      "mesh": 83
+    },
+    {
+      "name": "_APOD5EYES_2",
+      "mesh": 84
+    },
+    {
+      "name": "_APOD5ANTENNA_2",
+      "mesh": 85
+    },
+    {
+      "name": "_APOD5ANTENNA_3",
+      "mesh": 86
+    },
+    {
+      "name": "_APOD5EYES_1",
+      "mesh": 87
+    },
+    {
+      "name": "_APODHEADLOWER_1",
+      "mesh": 88
+    },
+    {
+      "name": "_APOD1TUSK_1",
+      "mesh": 89
+    },
+    {
+      "name": "_APOD1TUSK_6",
+      "mesh": 90
+    },
+    {
+      "name": "_APOD1TUSK_3",
+      "mesh": 91
+    },
+    {
+      "name": "_APOD1TUSK_4",
+      "mesh": 92
+    },
+    {
+      "name": "_APOD1TUSK_5",
+      "mesh": 93
+    },
+    {
+      "name": "_APOD1TUSK_2",
+      "mesh": 94
+    },
+    {
+      "name": "_APODHEADLOWER_2",
+      "mesh": 95
+    },
+    {
+      "name": "_APOD2JAW_2",
+      "mesh": 96
+    },
+    {
+      "name": "_APOD2JAW_1",
+      "mesh": 97
+    },
+    {
+      "name": "_APOD2TUSK_5",
+      "mesh": 98
+    },
+    {
+      "name": "_APOD2TUSK_4",
+      "mesh": 99
+    },
+    {
+      "name": "_APOD2TUSK_3",
+      "mesh": 100
+    },
+    {
+      "name": "_APOD2TUSK_2",
+      "mesh": 101
+    },
+    {
+      "name": "_APOD2TUSK_1",
+      "mesh": 102
+    },
+    {
+      "name": "_APODHEADLOWER_3",
+      "mesh": 103
+    },
+    {
+      "name": "_APOD3JAW_3",
+      "mesh": 104
+    },
+    {
+      "name": "_APOD3JAW_1",
+      "mesh": 105
+    },
+    {
+      "name": "_APOD3JAW_2",
+      "mesh": 106
+    },
+    {
+      "name": "_APOD3TUSK_2",
+      "mesh": 107
+    },
+    {
+      "name": "_APOD3TUSK_4",
+      "mesh": 108
+    },
+    {
+      "name": "_APOD3TUSK_3",
+      "mesh": 109
+    },
+    {
+      "name": "_APOD3TUSK_1",
+      "mesh": 110
+    },
+    {
+      "name": "_APODHEADLOWER_5",
+      "mesh": 111
+    },
+    {
+      "name": "_APOD5JAW_1",
+      "mesh": 112
+    },
+    {
+      "name": "_APOD5TUSKS_1",
+      "mesh": 113
+    },
+    {
+      "name": "_APOD5TUSKS_5",
+      "mesh": 114
+    },
+    {
+      "name": "_APOD5TUSKS_2",
+      "mesh": 115
+    },
+    {
+      "name": "_APOD5TUSKS_3",
+      "mesh": 116
+    },
+    {
+      "name": "_APOD5TUSKS_4",
+      "mesh": 117
+    },
+    {
+      "name": "_APOD5JAW_2",
+      "mesh": 118
+    },
+    {
+      "name": "_APODSHELL_1",
+      "mesh": 119
+    },
+    {
+      "name": "_APODSHELL_2",
+      "mesh": 120
+    },
+    {
+      "name": "_APODSHELL_3",
+      "mesh": 121
+    },
+    {
+      "name": "_APODSHELL_4",
+      "mesh": 122
+    },
+    {
+      "name": "_APODSHELL_5",
+      "mesh": 123
+    },
+    {
+      "name": "_APODLEGS_1",
+      "mesh": 124
+    },
+    {
+      "name": "_APODLEGS_2",
+      "mesh": 125
+    },
+    {
+      "name": "_APODLEGS_3",
+      "mesh": 126
+    },
+    {
+      "name": "_APODLEGS_4",
+      "mesh": 127
+    },
+    {
+      "name": "_APODLEGS_5",
+      "mesh": 128
+    },
+    {
+      "name": "_APODABDOMEN_1",
+      "mesh": 129
+    },
+    {
+      "name": "_APOD1ABDOMENSHELL_1",
+      "mesh": 130
+    },
+    {
+      "name": "_APOD1ABDOMENSPIKES_1",
+      "mesh": 131
+    },
+    {
+      "name": "_APOD1ABDOMENSPIKES_2",
+      "mesh": 132
+    },
+    {
+      "name": "_APOD1ABDOMENSPIKES_3",
+      "mesh": 133
+    },
+    {
+      "name": "_APOD1ABDOMENSHELL_2",
+      "mesh": 134
+    },
+    {
+      "name": "_APODABDOMEN_2",
+      "mesh": 135
+    },
+    {
+      "name": "_APODABDOMEN_3",
+      "mesh": 136
+    },
+    {
+      "name": "_APOD3ABDOMENSPIKES_2",
+      "mesh": 137
+    },
+    {
+      "name": "_APOD3ABDOMENSHELL_1",
+      "mesh": 138
+    },
+    {
+      "name": "_APOD3ABDOMENSPIKES_1",
+      "mesh": 139
+    },
+    {
+      "name": "_APODABDOMEN_4",
+      "mesh": 140
+    },
+    {
+      "name": "_APOD4ABDOMENSHELL_2",
+      "mesh": 141
+    },
+    {
+      "name": "_APOD4ABDOMENSHELL_1",
+      "mesh": 142
+    },
+    {
+      "name": "_APODABDOMEN_5",
+      "mesh": 143
+    },
+    {
+      "name": "_APODABDOMEN_9",
+      "mesh": 144
+    },
+    {
+      "name": "_APODTAILTIP_2",
+      "mesh": 145
+    },
+    {
+      "name": "_APODTAILTIP_1",
+      "mesh": 146
+    },
+    {
+      "name": "_APODTAILTIP_3",
+      "mesh": 147
+    },
+    {
+      "name": "_APODTAILTIP_4",
+      "mesh": 148
+    },
+    {
+      "name": "_APODTAILSHELL_1",
+      "mesh": 149
+    },
+    {
+      "name": "_APODTAILSHELL_2",
+      "mesh": 150
+    }
+  ],
+  "meshes": [
+    {
+      "name": "LOCAL_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPINE_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "RIDING_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGBASE_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_3_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R0_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGBASE_R1_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_3_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R1_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGBASE_R2_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_3_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_R2_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGBASE_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_3_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L0_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGBASE_L1_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_3_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L1_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEGBASE_L2_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_3_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "LEG_L2_END_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANDIBLE_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANDIBLE_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANDIBLE_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANDIBLE_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTENNA_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTENNA_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTENNA_R0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTENNA_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTENNA_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ANTENNA_L0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ROOT_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "ARTHROPOD_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADUPPER_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ANTENNA_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ANTENNA_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ANTENNA_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ANTENNA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ANTENNA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADUPPER_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2ANTENNA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2ANTENNA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2ANTENNA_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2ANTENNA_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2ANTENNA_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2ANTENNA_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADUPPER_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ANTENNA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ANTENNA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ANTENNA_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ANTENNA_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADUPPER_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3EYES_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3HORN_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3HORN_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3HORN_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3HORN_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3HORN_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3HORN_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3EYES_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADUPPER_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5ANTENNA_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5EYES_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5ANTENNA_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5ANTENNA_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5EYES_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADLOWER_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1TUSK_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1TUSK_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1TUSK_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1TUSK_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1TUSK_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1TUSK_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADLOWER_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2JAW_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2JAW_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2TUSK_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2TUSK_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2TUSK_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2TUSK_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD2TUSK_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADLOWER_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3JAW_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3JAW_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3JAW_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3TUSK_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3TUSK_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3TUSK_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3TUSK_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODHEADLOWER_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5JAW_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5TUSKS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5TUSKS_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5TUSKS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5TUSKS_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5TUSKS_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD5JAW_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODSHELL_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODSHELL_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODSHELL_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODSHELL_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODSHELL_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODLEGS_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODLEGS_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODLEGS_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODLEGS_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODLEGS_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODABDOMEN_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ABDOMENSHELL_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ABDOMENSPIKES_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ABDOMENSPIKES_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ABDOMENSPIKES_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD1ABDOMENSHELL_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODABDOMEN_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODABDOMEN_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ABDOMENSPIKES_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ABDOMENSHELL_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD3ABDOMENSPIKES_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODABDOMEN_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD4ABDOMENSHELL_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APOD4ABDOMENSHELL_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODABDOMEN_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODABDOMEN_9",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODTAILTIP_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODTAILTIP_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODTAILTIP_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODTAILTIP_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODTAILSHELL_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "APODTAILSHELL_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

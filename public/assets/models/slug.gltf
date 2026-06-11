@@ -1,0 +1,250 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "SLUG",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "name": "J_HEAD",
+      "mesh": 0
+    },
+    {
+      "name": "J_MOUTH",
+      "mesh": 1
+    },
+    {
+      "name": "J_LEGA1",
+      "mesh": 2
+    },
+    {
+      "name": "J_LEGA1_2",
+      "mesh": 3
+    },
+    {
+      "name": "J_LEGA3",
+      "mesh": 4
+    },
+    {
+      "name": "J_LEGB1",
+      "mesh": 5
+    },
+    {
+      "name": "J_LEGB2",
+      "mesh": 6
+    },
+    {
+      "name": "J_LEGB3",
+      "mesh": 7
+    },
+    {
+      "name": "J_LEGC1",
+      "mesh": 8
+    },
+    {
+      "name": "J_LEGC2",
+      "mesh": 9
+    },
+    {
+      "name": "J_LEGC3",
+      "mesh": 10
+    },
+    {
+      "name": "J_LEGD1",
+      "mesh": 11
+    },
+    {
+      "name": "J_LEGD2",
+      "mesh": 12
+    },
+    {
+      "name": "J_LEGD3",
+      "mesh": 13
+    }
+  ],
+  "meshes": [
+    {
+      "name": "J_HEAD",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_MOUTH",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGA1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGA1_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGA3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGB1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGB2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGB3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGC1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGC2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGC3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGD1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGD2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "J_LEGD3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}

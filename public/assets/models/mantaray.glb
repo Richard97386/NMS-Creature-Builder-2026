@@ -1,0 +1,538 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "BetterNMSAssetScraper"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "MANTARAY",
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "name": "SPINE_C0_0_JNT",
+      "mesh": 0
+    },
+    {
+      "name": "SPINE_C0_1_JNT",
+      "mesh": 1
+    },
+    {
+      "name": "SPINE_C0_2_JNT",
+      "mesh": 2
+    },
+    {
+      "name": "WING_L0_0_JNT",
+      "mesh": 3
+    },
+    {
+      "name": "WING_L0_1_JNT",
+      "mesh": 4
+    },
+    {
+      "name": "WING_L0_2_JNT",
+      "mesh": 5
+    },
+    {
+      "name": "WING_R0_0_JNT",
+      "mesh": 6
+    },
+    {
+      "name": "WING_R0_1_JNT",
+      "mesh": 7
+    },
+    {
+      "name": "WING_R0_2_JNT",
+      "mesh": 8
+    },
+    {
+      "name": "HEAD_C0_0_JNT",
+      "mesh": 9
+    },
+    {
+      "name": "MOUTH_C0_0_JNT",
+      "mesh": 10
+    },
+    {
+      "name": "JAW_L0_0_JNT",
+      "mesh": 11
+    },
+    {
+      "name": "JAW_L0_1_JNT",
+      "mesh": 12
+    },
+    {
+      "name": "JAW_L0_2_JNT",
+      "mesh": 13
+    },
+    {
+      "name": "JAW_R0_0_JNT",
+      "mesh": 14
+    },
+    {
+      "name": "JAW_R0_1_JNT",
+      "mesh": 15
+    },
+    {
+      "name": "JAW_R0_2_JNT",
+      "mesh": 16
+    },
+    {
+      "name": "EYE_R0_0_JNT",
+      "mesh": 17
+    },
+    {
+      "name": "EYE_L0_0_JNT",
+      "mesh": 18
+    },
+    {
+      "name": "TAIL_C0_0_JNT",
+      "mesh": 19
+    },
+    {
+      "name": "TAIL_C0_1_JNT",
+      "mesh": 20
+    },
+    {
+      "name": "TAIL_C0_2_JNT",
+      "mesh": 21
+    },
+    {
+      "name": "CHAIN_C0_0_JNT",
+      "mesh": 22
+    },
+    {
+      "name": "CHAIN_C0_1_JNT",
+      "mesh": 23
+    },
+    {
+      "name": "SIDEFIN_L0_0_JNT",
+      "mesh": 24
+    },
+    {
+      "name": "SIDEFIN_R0_0_JNT",
+      "mesh": 25
+    },
+    {
+      "name": "_MANTARAY_1",
+      "mesh": 26
+    },
+    {
+      "name": "_MANTARAY_2",
+      "mesh": 27
+    },
+    {
+      "name": "_MANTARAY_3",
+      "mesh": 28
+    },
+    {
+      "name": "_MANTARAY_4",
+      "mesh": 29
+    },
+    {
+      "name": "_MANTARAY_5",
+      "mesh": 30
+    },
+    {
+      "name": "_MANTARAY_6",
+      "mesh": 31
+    }
+  ],
+  "meshes": [
+    {
+      "name": "SPINE_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPINE_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SPINE_C0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_L0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "WING_R0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "HEAD_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MOUTH_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAW_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAW_L0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAW_L0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAW_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAW_R0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "JAW_R0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EYE_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "EYE_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "TAIL_C0_2_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHAIN_C0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "CHAIN_C0_1_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SIDEFIN_L0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "SIDEFIN_R0_0_JNT",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTARAY_1",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTARAY_2",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTARAY_3",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTARAY_4",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTARAY_5",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": "MANTARAY_6",
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "POSITION": 0
+          }
+        }
+      ]
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ]
+}
